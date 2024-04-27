@@ -1,7 +1,7 @@
 - 👋 Greetings! My name is Isabela Olsemann
-- 🌱 I've been studying web development 
+- 🌱 I've been studying web development and UI Design
 - 👀 Fun facts about me:
-- I'm living abroad
 - I speak Portuguese, English and a little Italian
 - I've worked as a biologist/ecotoxicologist and teacher
+-  My hobby is watercolor painting
 - 📫 How to reach me: isabelaolsemann@gmail.com
